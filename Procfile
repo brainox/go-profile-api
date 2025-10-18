@@ -1,1 +1,1 @@
-web: ./go-profile-api
+web: ./profile-api
