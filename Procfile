@@ -1,1 +1,1 @@
-web: ./profile-api
+web: bin/profile-api
