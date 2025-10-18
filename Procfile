@@ -1,0 +1,1 @@
+web: ./go-profile-api
